@@ -1,0 +1,3 @@
+ALTER TABLE payment_transactions
+ALTER COLUMN patrx_credit TYPE DOUBLE PRECISION,
+ALTER COLUMN patrx_debet TYPE DOUBLE PRECISION;

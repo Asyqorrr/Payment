@@ -1,0 +1,2 @@
+ALTER TABLE user_accounts
+ALTER COLUMN usac_balance TYPE DOUBLE PRECISION;

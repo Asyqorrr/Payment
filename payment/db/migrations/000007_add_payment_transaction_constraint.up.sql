@@ -1,0 +1,2 @@
+-- alter table payment_transactions
+-- add constraint patrx_patrx_ref_fk foreign key (patrx_patrx_ref) references payment_transactions(patrx_patrx_ref);
